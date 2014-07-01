@@ -1,0 +1,11 @@
+<ion-view title="Menu">
+  <ion-content class="has-header">
+    <ion-list>
+      <ion-item ng-repeat="item in menu" type="item-text-wrap">
+          <span class="ion-fork padding"></span>
+          <span class="padding">{{item.name}}</span>
+          <span><strong>{{item.price}}</strong></span>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

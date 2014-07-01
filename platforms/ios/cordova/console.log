@@ -1,0 +1,190 @@
+2014-05-04 13:12:52.287 HelloCordova[45158:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 13:12:52.315 HelloCordova[45158:70b] Unlimited access to network resources
+2014-05-04 13:12:52.482 HelloCordova[45158:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-04 13:12:52.482 HelloCordova[45158:70b] [CDVTimer][statusbar] 0.506997ms
+2014-05-04 13:12:52.483 HelloCordova[45158:70b] [CDVTimer][TotalPluginStartup] 0.913024ms
+2014-05-04 13:12:52.619 HelloCordova[45158:70b] Resetting plugins due to page load.
+2014-05-04 13:12:52.893 HelloCordova[45158:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7C57B768-91F5-41CF-B072-E6E9CF8C03AB/HelloCordova.app/www/index.html#/tab/dash
+2014-05-05 19:17:00.948 HelloCordova[45409:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-05 19:17:00.974 HelloCordova[45409:70b] Unlimited access to network resources
+2014-05-05 19:17:01.176 HelloCordova[45409:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-05 19:17:01.177 HelloCordova[45409:70b] [CDVTimer][statusbar] 0.590980ms
+2014-05-05 19:17:01.177 HelloCordova[45409:70b] [CDVTimer][TotalPluginStartup] 1.048982ms
+2014-05-05 19:17:01.333 HelloCordova[45409:70b] Resetting plugins due to page load.
+2014-05-05 19:17:01.663 HelloCordova[45409:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7C57B768-91F5-41CF-B072-E6E9CF8C03AB/HelloCordova.app/www/index.html#/tab/dash
+2014-05-05 19:26:16.050 HelloCordova[61371:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-05 19:26:16.056 HelloCordova[61371:70b] Unlimited access to network resources
+2014-05-05 19:26:16.071 HelloCordova[61371:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-05 19:26:16.072 HelloCordova[61371:70b] [CDVTimer][statusbar] 0.491977ms
+2014-05-05 19:26:16.072 HelloCordova[61371:70b] [CDVTimer][TotalPluginStartup] 0.877976ms
+2014-05-05 19:26:16.158 HelloCordova[61371:70b] Resetting plugins due to page load.
+2014-05-05 19:26:16.314 HelloCordova[61371:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F470BEE5-AC04-4001-B13C-A83D3E802C2F/HelloCordova.app/www/index.html#/tab/dash
+2014-05-05 19:39:51.947 HelloCordova[85683:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-05 19:39:51.956 HelloCordova[85683:70b] Unlimited access to network resources
+2014-05-05 19:39:51.975 HelloCordova[85683:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-05 19:39:51.975 HelloCordova[85683:70b] [CDVTimer][statusbar] 0.583053ms
+2014-05-05 19:39:51.976 HelloCordova[85683:70b] [CDVTimer][TotalPluginStartup] 1.031995ms
+2014-05-05 19:39:52.091 HelloCordova[85683:70b] Resetting plugins due to page load.
+2014-05-05 19:39:52.541 HelloCordova[85683:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F470BEE5-AC04-4001-B13C-A83D3E802C2F/HelloCordova.app/www/index.html#/tab/dash
+2014-05-05 20:43:39.442 HelloCordova[99776:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-05 20:43:39.448 HelloCordova[99776:70b] Unlimited access to network resources
+2014-05-05 20:43:39.463 HelloCordova[99776:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-05 20:43:39.463 HelloCordova[99776:70b] [CDVTimer][statusbar] 0.671983ms
+2014-05-05 20:43:39.464 HelloCordova[99776:70b] [CDVTimer][TotalPluginStartup] 1.067996ms
+2014-05-05 20:43:39.536 HelloCordova[99776:70b] Resetting plugins due to page load.
+2014-05-05 20:43:39.969 HelloCordova[99776:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F470BEE5-AC04-4001-B13C-A83D3E802C2F/HelloCordova.app/www/index.html#/tab/dash
+2014-05-05 23:54:30.592 HelloCordova[39920:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-05 23:54:30.598 HelloCordova[39920:70b] Unlimited access to network resources
+2014-05-05 23:54:30.615 HelloCordova[39920:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-05 23:54:30.615 HelloCordova[39920:70b] [CDVTimer][statusbar] 0.469983ms
+2014-05-05 23:54:30.616 HelloCordova[39920:70b] [CDVTimer][TotalPluginStartup] 0.817001ms
+2014-05-05 23:54:30.651 HelloCordova[39920:70b] Resetting plugins due to page load.
+2014-05-05 23:54:31.080 HelloCordova[39920:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F470BEE5-AC04-4001-B13C-A83D3E802C2F/HelloCordova.app/www/index.html#/tab/dash
+2014-05-05 23:54:54.002 HelloCordova[40794:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-05 23:54:54.010 HelloCordova[40794:70b] Unlimited access to network resources
+2014-05-05 23:54:54.030 HelloCordova[40794:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-05 23:54:54.031 HelloCordova[40794:70b] [CDVTimer][statusbar] 1.174986ms
+2014-05-05 23:54:54.032 HelloCordova[40794:70b] [CDVTimer][TotalPluginStartup] 2.031982ms
+2014-05-05 23:54:54.119 HelloCordova[40794:70b] Resetting plugins due to page load.
+2014-05-05 23:54:54.488 HelloCordova[40794:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F470BEE5-AC04-4001-B13C-A83D3E802C2F/HelloCordova.app/www/index.html#/tab/dash
+2014-05-07 09:43:39.308 HelloCordova[81812:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-07 09:43:39.321 HelloCordova[81812:70b] Unlimited access to network resources
+2014-05-07 09:43:39.566 HelloCordova[81812:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-05-07 09:43:39.567 HelloCordova[81812:70b] [CDVTimer][statusbar] 0.488043ms
+2014-05-07 09:43:39.567 HelloCordova[81812:70b] [CDVTimer][TotalPluginStartup] 0.864029ms
+2014-05-07 09:43:39.748 HelloCordova[81812:70b] Resetting plugins due to page load.
+2014-05-07 09:43:40.246 HelloCordova[81812:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F470BEE5-AC04-4001-B13C-A83D3E802C2F/HelloCordova.app/www/index.html#/tab/dash
+2014-07-01 11:04:01.229 HelloCordova[39423:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:04:01.255 HelloCordova[39423:70b] Unlimited access to network resources
+2014-07-01 11:04:01.515 HelloCordova[39423:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:04:01.516 HelloCordova[39423:70b] [CDVTimer][statusbar] 0.555038ms
+2014-07-01 11:04:01.516 HelloCordova[39423:70b] [CDVTimer][TotalPluginStartup] 1.019001ms
+2014-07-01 11:04:01.677 HelloCordova[39423:70b] Resetting plugins due to page load.
+2014-07-01 11:04:02.120 HelloCordova[39423:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F470BEE5-AC04-4001-B13C-A83D3E802C2F/HelloCordova.app/www/index.html#/tab/dash
+2014-07-01 11:17:28.025 ionic-demo[62384:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:17:28.032 ionic-demo[62384:70b] Unlimited access to network resources
+2014-07-01 11:17:28.035 ionic-demo[62384:70b] Fix applied for database locations?: YES
+2014-07-01 11:17:28.051 ionic-demo[62384:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:17:28.051 ionic-demo[62384:70b] [CDVTimer][statusbar] 0.445008ms
+2014-07-01 11:17:28.051 ionic-demo[62384:70b] [CDVTimer][TotalPluginStartup] 0.837982ms
+2014-07-01 11:17:28.145 ionic-demo[62384:70b] Resetting plugins due to page load.
+2014-07-01 11:17:28.872 ionic-demo[62384:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EF12E692-C664-44BC-98A6-D7CCBBB78F92/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:18:25.080 ionic-demo[64266:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:18:25.090 ionic-demo[64266:70b] Unlimited access to network resources
+2014-07-01 11:18:25.113 ionic-demo[64266:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:18:25.113 ionic-demo[64266:70b] [CDVTimer][statusbar] 0.608981ms
+2014-07-01 11:18:25.114 ionic-demo[64266:70b] [CDVTimer][TotalPluginStartup] 1.085997ms
+2014-07-01 11:18:25.195 ionic-demo[64266:70b] Resetting plugins due to page load.
+2014-07-01 11:18:25.792 ionic-demo[64266:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EF12E692-C664-44BC-98A6-D7CCBBB78F92/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:24:44.508 ionic-demo[75600:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:24:44.514 ionic-demo[75600:70b] Unlimited access to network resources
+2014-07-01 11:24:44.529 ionic-demo[75600:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:24:44.530 ionic-demo[75600:70b] [CDVTimer][statusbar] 0.446975ms
+2014-07-01 11:24:44.530 ionic-demo[75600:70b] [CDVTimer][TotalPluginStartup] 0.766993ms
+2014-07-01 11:24:44.563 ionic-demo[75600:70b] Resetting plugins due to page load.
+2014-07-01 11:24:44.900 ionic-demo[75600:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EF12E692-C664-44BC-98A6-D7CCBBB78F92/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:27:04.643 ionic-demo[79768:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:27:04.649 ionic-demo[79768:70b] Unlimited access to network resources
+2014-07-01 11:27:04.664 ionic-demo[79768:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:27:04.664 ionic-demo[79768:70b] [CDVTimer][statusbar] 0.465989ms
+2014-07-01 11:27:04.664 ionic-demo[79768:70b] [CDVTimer][TotalPluginStartup] 0.835955ms
+2014-07-01 11:27:04.697 ionic-demo[79768:70b] Resetting plugins due to page load.
+2014-07-01 11:27:04.867 ionic-demo[79768:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EF12E692-C664-44BC-98A6-D7CCBBB78F92/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:30:10.505 ionic-demo[85486:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:30:10.511 ionic-demo[85486:70b] Unlimited access to network resources
+2014-07-01 11:30:10.527 ionic-demo[85486:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:30:10.527 ionic-demo[85486:70b] [CDVTimer][statusbar] 0.481963ms
+2014-07-01 11:30:10.528 ionic-demo[85486:70b] [CDVTimer][TotalPluginStartup] 0.828981ms
+2014-07-01 11:30:10.614 ionic-demo[85486:70b] Resetting plugins due to page load.
+2014-07-01 11:30:10.796 ionic-demo[85486:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AABE0955-87F0-4210-A0CF-633B50BBB64D/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:32:37.514 ionic-demo[90585:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:32:37.520 ionic-demo[90585:70b] Unlimited access to network resources
+2014-07-01 11:32:37.535 ionic-demo[90585:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:32:37.536 ionic-demo[90585:70b] [CDVTimer][statusbar] 0.474989ms
+2014-07-01 11:32:37.536 ionic-demo[90585:70b] [CDVTimer][TotalPluginStartup] 0.845015ms
+2014-07-01 11:32:37.619 ionic-demo[90585:70b] Resetting plugins due to page load.
+2014-07-01 11:32:37.794 ionic-demo[90585:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AABE0955-87F0-4210-A0CF-633B50BBB64D/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:33:09.124 ionic-demo[91905:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:33:09.131 ionic-demo[91905:70b] Unlimited access to network resources
+2014-07-01 11:33:09.147 ionic-demo[91905:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:33:09.147 ionic-demo[91905:70b] [CDVTimer][statusbar] 0.427961ms
+2014-07-01 11:33:09.148 ionic-demo[91905:70b] [CDVTimer][TotalPluginStartup] 0.805020ms
+2014-07-01 11:33:09.180 ionic-demo[91905:70b] Resetting plugins due to page load.
+2014-07-01 11:33:09.368 ionic-demo[91905:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AABE0955-87F0-4210-A0CF-633B50BBB64D/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:36:33.331 ionic-demo[98533:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:36:33.337 ionic-demo[98533:70b] Unlimited access to network resources
+2014-07-01 11:36:33.353 ionic-demo[98533:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:36:33.353 ionic-demo[98533:70b] [CDVTimer][statusbar] 0.481009ms
+2014-07-01 11:36:33.354 ionic-demo[98533:70b] [CDVTimer][TotalPluginStartup] 0.831008ms
+2014-07-01 11:36:33.387 ionic-demo[98533:70b] Resetting plugins due to page load.
+2014-07-01 11:36:33.558 ionic-demo[98533:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AABE0955-87F0-4210-A0CF-633B50BBB64D/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:39:24.673 ionic-demo[4640:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:39:24.679 ionic-demo[4640:70b] Unlimited access to network resources
+2014-07-01 11:39:24.694 ionic-demo[4640:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:39:24.695 ionic-demo[4640:70b] [CDVTimer][statusbar] 0.529051ms
+2014-07-01 11:39:24.695 ionic-demo[4640:70b] [CDVTimer][TotalPluginStartup] 0.943959ms
+2014-07-01 11:39:24.727 ionic-demo[4640:70b] Resetting plugins due to page load.
+2014-07-01 11:39:24.897 ionic-demo[4640:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AABE0955-87F0-4210-A0CF-633B50BBB64D/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:40:56.441 ionic-demo[7490:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:40:56.447 ionic-demo[7490:70b] Unlimited access to network resources
+2014-07-01 11:40:56.464 ionic-demo[7490:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:40:56.464 ionic-demo[7490:70b] [CDVTimer][statusbar] 0.531018ms
+2014-07-01 11:40:56.464 ionic-demo[7490:70b] [CDVTimer][TotalPluginStartup] 0.912964ms
+2014-07-01 11:40:56.556 ionic-demo[7490:70b] Resetting plugins due to page load.
+2014-07-01 11:40:56.718 ionic-demo[7490:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:42:08.457 ionic-demo[9872:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:42:08.463 ionic-demo[9872:70b] Unlimited access to network resources
+2014-07-01 11:42:08.479 ionic-demo[9872:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:42:08.480 ionic-demo[9872:70b] [CDVTimer][statusbar] 0.503004ms
+2014-07-01 11:42:08.480 ionic-demo[9872:70b] [CDVTimer][TotalPluginStartup] 0.914991ms
+2014-07-01 11:42:08.567 ionic-demo[9872:70b] Resetting plugins due to page load.
+2014-07-01 11:42:08.767 ionic-demo[9872:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:44:10.795 ionic-demo[13989:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:44:10.801 ionic-demo[13989:70b] Unlimited access to network resources
+2014-07-01 11:44:10.816 ionic-demo[13989:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:44:10.817 ionic-demo[13989:70b] [CDVTimer][statusbar] 0.469983ms
+2014-07-01 11:44:10.817 ionic-demo[13989:70b] [CDVTimer][TotalPluginStartup] 0.850976ms
+2014-07-01 11:44:10.946 ionic-demo[13989:70b] Resetting plugins due to page load.
+2014-07-01 11:44:11.155 ionic-demo[13989:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:46:33.398 ionic-demo[18975:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:46:33.404 ionic-demo[18975:70b] Unlimited access to network resources
+2014-07-01 11:46:33.421 ionic-demo[18975:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:46:33.422 ionic-demo[18975:70b] [CDVTimer][statusbar] 0.460029ms
+2014-07-01 11:46:33.422 ionic-demo[18975:70b] [CDVTimer][TotalPluginStartup] 0.822008ms
+2014-07-01 11:46:33.502 ionic-demo[18975:70b] Resetting plugins due to page load.
+2014-07-01 11:46:33.681 ionic-demo[18975:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:49:18.660 ionic-demo[24333:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:49:18.666 ionic-demo[24333:70b] Unlimited access to network resources
+2014-07-01 11:49:18.681 ionic-demo[24333:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:49:18.682 ionic-demo[24333:70b] [CDVTimer][statusbar] 0.513971ms
+2014-07-01 11:49:18.682 ionic-demo[24333:70b] [CDVTimer][TotalPluginStartup] 0.880003ms
+2014-07-01 11:49:18.716 ionic-demo[24333:70b] Resetting plugins due to page load.
+2014-07-01 11:49:18.855 ionic-demo[24333:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:52:09.477 ionic-demo[29476:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:52:09.483 ionic-demo[29476:70b] Unlimited access to network resources
+2014-07-01 11:52:09.500 ionic-demo[29476:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:52:09.500 ionic-demo[29476:70b] [CDVTimer][statusbar] 0.482023ms
+2014-07-01 11:52:09.501 ionic-demo[29476:70b] [CDVTimer][TotalPluginStartup] 0.822008ms
+2014-07-01 11:52:09.575 ionic-demo[29476:70b] Resetting plugins due to page load.
+2014-07-01 11:52:09.765 ionic-demo[29476:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:53:20.697 ionic-demo[32124:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:53:20.706 ionic-demo[32124:70b] Unlimited access to network resources
+2014-07-01 11:53:20.721 ionic-demo[32124:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:53:20.722 ionic-demo[32124:70b] [CDVTimer][statusbar] 0.447035ms
+2014-07-01 11:53:20.722 ionic-demo[32124:70b] [CDVTimer][TotalPluginStartup] 0.782013ms
+2014-07-01 11:53:20.816 ionic-demo[32124:70b] Resetting plugins due to page load.
+2014-07-01 11:53:20.989 ionic-demo[32124:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:54:18.141 ionic-demo[34307:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:54:18.147 ionic-demo[34307:70b] Unlimited access to network resources
+2014-07-01 11:54:18.163 ionic-demo[34307:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:54:18.164 ionic-demo[34307:70b] [CDVTimer][statusbar] 0.428021ms
+2014-07-01 11:54:18.164 ionic-demo[34307:70b] [CDVTimer][TotalPluginStartup] 0.775993ms
+2014-07-01 11:54:18.197 ionic-demo[34307:70b] Resetting plugins due to page load.
+2014-07-01 11:54:18.367 ionic-demo[34307:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash
+2014-07-01 11:54:49.399 ionic-demo[35588:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-01 11:54:49.405 ionic-demo[35588:70b] Unlimited access to network resources
+2014-07-01 11:54:49.420 ionic-demo[35588:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-01 11:54:49.421 ionic-demo[35588:70b] [CDVTimer][statusbar] 0.527978ms
+2014-07-01 11:54:49.421 ionic-demo[35588:70b] [CDVTimer][TotalPluginStartup] 0.970006ms
+2014-07-01 11:54:49.455 ionic-demo[35588:70b] Resetting plugins due to page load.
+2014-07-01 11:54:49.620 ionic-demo[35588:70b] Finished load of: file:///Users/alexlashford/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A78E34E6-EA4A-4C4C-ABE1-1A07AD67AE62/ionic-demo.app/www/index.html#/tab/dash

@@ -1,0 +1,9 @@
+<ion-view title="Venues">
+  <ion-content class="has-header">
+    <ion-list>
+      <ion-item ng-repeat="venue in venues" type="item-text-wrap" href="#/tab/venue/{{venue.id}}">
+          <span class="ion-wineglass"></span> {{venue.name}}
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
