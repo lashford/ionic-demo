@@ -1,2 +1,2 @@
-/Users/alexlashford/personal/drinksfinder/client-app/platforms/android/ant-build/AndroidManifest.xml : \
-/Users/alexlashford/personal/drinksfinder/client-app/platforms/android/AndroidManifest.xml \
+/Users/alexlashford/personal/ionic-demo/platforms/android/ant-build/AndroidManifest.xml : \
+/Users/alexlashford/personal/ionic-demo/platforms/android/AndroidManifest.xml \

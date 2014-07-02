@@ -1,5 +1,5 @@
-// Drinks Finder App
-angular.module('drinksFinder', ['ionic', 'drinksFinder.controllers', 'drinksFinder.services', 'google-maps'])
+// ionic demo App
+angular.module('ionic-demo', ['ionic', 'ionic-demo.controllers', 'ionic-demo.services'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -26,7 +26,6 @@ angular.module('drinksFinder', ['ionic', 'drinksFinder.controllers', 'drinksFind
     })
 
     // Each tab has its own nav history stack:
-
     .state('tab.dash', {
       url: '/dash',
       views: {
@@ -37,31 +36,12 @@ angular.module('drinksFinder', ['ionic', 'drinksFinder.controllers', 'drinksFind
       }
     })
 
-    .state('tab.venues', {
-      url: '/venues',
+    .state('tab.menu', {
+      url: '/menu',
       views: {
-        'tab-venues': {
-          templateUrl: 'templates/tab-venues.html',
-          controller: 'VenuesCtrl'
-        }
-      }
-    })
-    .state('tab.venue-detail', {
-      url: '/venue/:venueId',
-      views: {
-        'tab-venues': {
-          templateUrl: 'templates/venue-detail.html',
-          controller: 'VenueDetailCtrl'
-        }
-      }
-    })
-
-    .state('tab.account', {
-      url: '/account',
-      views: {
-        'tab-account': {
-          templateUrl: 'templates/tab-account.html',
-          controller: 'AccountCtrl'
+        'tab-menu': {
+          templateUrl: 'templates/tab-menu.html',
+          controller: 'MenuCtrl'
         }
       }
     })
